@@ -2,5 +2,5 @@ GRB Resolusi
 - lorem lorem
 - Trial trial
 - Test test
-- 2 nd test
-- 2 nd Test
+- 3rd Test
+- 3rd Test
